@@ -6,7 +6,7 @@ Welcome to **VisionTalks**, an advanced AI-powered application designed for mode
 
 ## Getting Started
 
-To start using Vision-Talks, you need to:
+To start using VisionTalks, you need to:
 
 1. Clone the repository:
    ```bash
@@ -25,7 +25,7 @@ To start using Vision-Talks, you need to:
 
 ## Component Library
 
-AI-Talks includes a robust library of reusable components stored in the `/components` directory. These components are designed for modularity and efficiency.
+VisionTalks includes a robust library of reusable components stored in the `/components` directory. These components are designed for modularity and efficiency.
 
 ### Example Usage
 
@@ -52,7 +52,7 @@ export function middleware(req, ev) {
 
 ## Tailwind Integration
 
-AI-Talks uses Tailwind CSS for styling, providing a responsive and modern UI out of the box.
+VisionTalks uses Tailwind CSS for styling, providing a responsive and modern UI out of the box.
 
 ### Tailwind Configuration
 
@@ -87,7 +87,7 @@ async function fetchData() {
 
 ## Next.js Framework
 
-AI-Talks is built on Next.js, enabling server-side rendering and static site generation. Configuration is in `next.config.js`.
+VisionTalks is built on Next.js, enabling server-side rendering and static site generation. Configuration is in `next.config.js`.
 
 ### Custom Configuration
 
